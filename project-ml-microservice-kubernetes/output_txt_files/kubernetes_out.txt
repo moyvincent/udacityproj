@@ -1,1 +1,9 @@
 <paste log output from Kubernetes-mediated prediction, here>
+NAME                           READY   STATUS    RESTARTS   AGE
+udacityproj-578fc7b7c9-xfczn   1/1     Running   0          2m9s
+
+Forwarding from 0.0.0.0:8000 -> 80
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
+Handling connection for 8000
